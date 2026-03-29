@@ -1,0 +1,5 @@
+{
+  "name": "SL Scholar",
+  "description": "A comprehensive study companion for Sri Lankan students featuring AI assistance, homework scanning, diagram generation, and local resource discovery.",
+  "requestFramePermissions": ["geolocation"]
+}
